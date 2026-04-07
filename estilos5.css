@@ -1,0 +1,30 @@
+div{
+    border-style: solid;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+#principal{
+
+}
+#centro{
+
+}
+#foto{
+    width: 25%;
+    display: inline-block;
+    border-radius: 100%;
+}
+#nombre{
+    width: 30%;
+    display: inline-block;
+    border-color: white;
+}
+#info{
+    width: 25%;
+    display: inline-block;
+    border-color: white;
+}
+#marco{
+    width: 25%;
+    display: inline-block;
+}
